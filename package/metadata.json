@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors":[
+            {
+        
+            
+            "Email": "emailaiaala@changethis.later",
+            "Name": "SheggTheDev"
+        
+            }
+        ],
+        "Category":"System Monitor",
+        "Description": "A widget that compares cpu fan speed and temps funy style",
+        "Icon": "battery",
+        "Id": "com.github.SheggTheDev.CE-Widget",
+        "Name": "Cooling Efficiency Monitor",
+        "Version": "1",
+        "Website": "null"
+
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+
+}
